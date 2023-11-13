@@ -12,9 +12,6 @@ This implementation is for educational purposes only and should not be used in p
 ## Usage
 Run the script to see an example of key generation, message signing, and signature verification. You can modify the `message` variable in the script to test different messages.
 
-## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/your-github-username/SimpleSchnorrSignature/issues) if you want to contribute.
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
